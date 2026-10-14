@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5dc5ee6ff1d43b46956f911f",
+  "owner": "bpqdvaagak",
+  "repo": "page-a6afa86f5d7862ef4b03a145",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a6afa86f5d7862ef4b03a145",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5852840d796e56facde40c304f7fd398c0b5602bf02dd7e83a64af9909a72cac",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id 提供优质VPN加速服务，基础版 ¥15/月起，旗舰版支持IPLC游戏加速，团队版企业定制。官网提供多种客户端下载，助力用户安全稳定加速上网。",
+          "AI_DESCRIPTION": "小火箭id 提供优质VPN加速服务，基础版 ¥15/月起，旗舰版支持IPLC游戏加速，团队版企业定制。官网提供多种客户端下载，助力用户安全稳定加速上网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            line-height: 1.7;\n            color: #334155;\n            background-color: #f8fafc;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1280px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #6d28d9;\n            font-size: 2.8rem;\n            text-align: center;\n            margin-bottom: 20px;\n        }\n        h2 {\n            color: #4f46e5;\n            font-size: 1.8rem;\n            margin: 30px 0 15px;\n            border-bottom: 2px solid #e0e7ff;\n            padding-bottom: 10px;\n        }\n        .plan-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin-top: 20px;\n        }\n        .plan {\n            background: white;\n            border-radius: 12px;\n            padding: 25px;\n            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n            transition: all 0.3s ease;\n        }\n        .plan:hover {\n            transform: translateY(-8px);\n            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);\n        }\n        .plan.featured {\n            border: 3px solid #6d28d9;\n            position: relative;\n        }\n        .plan.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 25px;\n            background: #6d28d9;\n            color: white;\n            padding: 6px 18px;\n            border-radius: 9999px;\n            font-size: 0.85rem;\n            font-weight: bold;\n        }\n        .price {\n            font-size: 1.3rem;\n            color: #6d28d9;\n            font-weight: 700;\n            margin: 10px 0;\n        }\n        ul {\n            list-style: none;\n            padding: 0;\n        }\n        ul li {\n            margin: 12px 0;\n            padding-left: 25px;\n            position: relative;\n        }\n        ul li:before {\n            content: \"✓\";\n            color: #6d28d9;\n            position: absolute;\n            left: 0;\n        }\n        section {\n            margin-bottom: 40px;\n        }\n        details {\n            margin-bottom: 15px;\n            background: white;\n            padding: 15px;\n            border-radius: 8px;\n            box-shadow: 0 2px 4px rgb(0 0 0 / 0.05);\n        }\n        summary {\n            font-weight: 600;\n            color: #334155;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        a {\n            color: #6d28d9;\n            text-decoration: none;\n        }\n        a:hover {\n            text-decoration: underline;\n        }\n        @media (max-width: 768px) {\n            main {\n                padding: 15px;\n            }\n            h1 {\n                font-size: 2.2rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>小火箭id</h1>\n        <section>\n            <h2>品牌介绍</h2>\n            <p>小火箭id 是一款专业的网络加速器解决方案，致力于为用户提供高速、稳定、安全的VPN服务。通过先进的客户端技术，您可以轻松突破网络限制，畅享全球优质内容和加速体验。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <ul>\n                <li>流媒体平台解锁：支持Netflix、Disney+、YouTube 等高清视频观看</li>\n                <li>游戏加速优化：降低延迟，提升在线竞技体验</li>\n                <li>企业远程办公：保障网络安全和稳定连接</li>\n                <li>旅行出国上网：突破地区限制，全球畅行无忧</li>\n                <li>家庭设备共享：多设备同时在线使用</li>\n            </ul>\n        </section>\n        <section>\n            <h2>产品套餐</h2>\n            <div class=\"plan-grid\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月</p>\n                    <p class=\"price\">（按年付仅需 ¥150/年）</p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan featured\">\n                    <h3>旗舰版</h3>\n                    <p class=\"price\">¥35/月</p>\n                    <p class=\"price\">（按年付仅需 ¥350/年）</p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月</p>\n                    <p class=\"price\">（按年付仅需 ¥850/年）</p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>客户端选择</h2>\n            <p>小火箭id 强调客户端优先选择，为用户提供便捷的下载入口。根据您的设备需求，官网提供对应版本的客户端。无论新手还是资深用户，都能快速上手加速服务。</p>\n            <a href=\"#download-guide\">立即查看客户端下载指南</a>\n        </section>\n        <section id=\"download-guide\">\n            <h2>操作说明</h2>\n            <ol>\n                <li>访问官网下载小火箭id客户端</li>\n                <li>根据操作系统选择安装包并完成安装</li>\n                <li>注册账号登录个人中心</li>\n                <li>选择套餐进行订阅支付</li>\n                <li>连接任意线路节点开始享受加速</li>\n            </ol>\n        </section>\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是小火箭id？</summary>\n                <p>小火箭id 是一款专注于VPN网络加速的品牌，提供稳定节点池和专业客户端支持，帮助用户实现安全高速上网。</p>\n            </details>\n            <details>\n                <summary>小火箭id 支持哪些设备？</summary>\n                <p>支持 Windows、macOS、iOS、Android 等主流操作系统设备。</p>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <p>请访问官网首页，找到「下载客户端」按钮，选择对应操作系统的版本下载安装。</p>\n            </details>\n            <details>\n                <summary>套餐之间有什么区别？</summary>\n                <p>基础版适合个人轻度使用，旗舰版推荐游戏和流媒体用户，团队版适合企业多设备和定制需求。</p>\n            </details>\n            <details>\n                <summary>流量额度如何使用？</summary>\n                <p>每月提供的固定GB流量额度，可用于各种加速场景，不同套餐流量不同。</p>\n            </details>\n            <details>\n                <summary>客服支持如何？</summary>\n                <p>旗舰版及以上提供7x24优先工单支持，基础版提供工作日在线客服。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "5b1aeeb78054ef842a23cd5c972023928826fe70913bcec43dec296f7ca67686",
+          "seo": {
+            "title": "小火箭id VPN加速器 官网客户端下载",
+            "keywords": "小火箭id,VPN,机场,加速器,客户端下载,官网下载,网络加速",
+            "description": "小火箭id 提供优质VPN加速服务，基础版 ¥15/月起，旗舰版支持IPLC游戏加速，团队版企业定制。官网提供多种客户端下载，助力用户安全稳定加速上网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "piyaji.cn",
+    "host": "p-5210301c83.piyaji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "6f497f32225e43c0446a82a7abed148691b5bc75220bff155029bfff6c788ac7",
+    "sitemap.xml": "111e6c57f5a29d042dde2ef2fce3946eca7b3a429edaaf1da85e99d42d862ad3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a6e4290e7e1c5dbae2b7c202fcce92e59ce34354c342214532bdee392c4c2e08",
+    "robots.txt": "67a2acbd7607312c8a2833c908e33f6d647387adcd2e53def034a1392a90823d",
+    "5a131acbe005fc3defd2fa31dce85259.txt": "3e1d1fc9d8fdf11dd8a00f840669d4405f502df3003cf09a520afe7602c22f83"
+  },
+  "revision": "a791c0f260a2950236dae48fd8fe295cb6d7bcb791a1004eaf681a89f28e1392"
+}
